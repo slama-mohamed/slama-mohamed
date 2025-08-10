@@ -24,8 +24,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
 ![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical)
 
----
 
-### 🏆 Badges de Profil
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=slama-mohamed&theme=radical&column=3)
