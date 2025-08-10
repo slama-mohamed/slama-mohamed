@@ -1,9 +1,9 @@
-## Salut, je suis Mohamed Slama 👋
+## Hi, I'm Mohamed Slama 👋
 
-🔭 Actuellement en stage chez **IBspace**  
-🌱 J'apprends **Flutter** et **React.js**  
-👯 Ouvert aux opportunités de collaboration pour des stages  
-📫 Contactez-moi : [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
+🔭 Currently interning at **IBspace**  
+🌱 Learning **Flutter** & **React.js**  
+👯 Open to internship collaborations  
+📫 Reach me at: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
 
 ---
 
@@ -11,17 +11,17 @@
 
 ---
 
-### 🌐 Me suivre
+### 🌐 Connect with me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/tonprofil)  
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/tonprofil)  
-[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/tonpseudo)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/your-twitter-handle)  
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/slama-mohamed)
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical)
-
-
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="48%" />
+</p>
