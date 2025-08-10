@@ -23,6 +23,7 @@
 ---
 
 <p align="center">
+  <b>Mohamed Slama's GitHub Stats</b><br>
   <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=dark&hide_title=true&count_private=true&icon_color=ff0000&text_color=ffffff" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=dark&text_color=ffffff&bg_color=000000&border_color=ff0000" alt="Top Languages" width="48%" />
 </p>
