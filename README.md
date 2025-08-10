@@ -25,9 +25,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark-green" alt="GitHub Stats" width="48%" />
