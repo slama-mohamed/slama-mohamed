@@ -19,5 +19,5 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="40%" />
 </p>
