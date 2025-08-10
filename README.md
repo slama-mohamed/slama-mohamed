@@ -1,5 +1,6 @@
 # Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat)
 🔭 I’m currently interning at **IBspace**  
 🌱 I’m always learning **Flutter** & **React.js**  
 👯 I’m open to internship collaborations  
