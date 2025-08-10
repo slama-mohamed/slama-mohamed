@@ -1,22 +1,28 @@
 # Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat)
+
 🔭 I’m currently interning at **IBspace**  
 🌱 I’m always learning **Flutter** & **React.js**  
 👯 I’m open to internship collaborations  
 📫 How to reach me: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)  
 
-<p align="left">
-  <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
-    <img src="https://img.icons8.com/color/24/000000/gmail.png" alt="Gmail" width="48" height="48" />
+<p align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<br>
+<p align="center">
+  <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="48" height="48" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
 </p>
 
+---
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="40%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="48%" />
 </p>
