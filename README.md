@@ -1,5 +1,5 @@
 # Hi there 👋 
-<p align="center" style="margin-top:10px;">
+<p align="left" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -11,7 +11,7 @@
 
 
 <br>
-<p align="center">
+<p align="left">
   <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="48" height="48" />
   </a>
