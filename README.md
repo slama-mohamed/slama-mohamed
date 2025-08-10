@@ -1,4 +1,7 @@
-# Hi there 👋
+# Hi there 👋 
+<p align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 🔭 I’m currently interning at **IBspace**  
@@ -6,9 +9,7 @@
 👯 I’m open to internship collaborations  
 📫 How to reach me: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)  
 
-<p align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 <br>
 <p align="center">
   <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
