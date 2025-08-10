@@ -14,9 +14,6 @@
 [![Twitter](https://img.icons8.com/color/24/000000/twitter.png)](https://twitter.com/your-twitter-handle)  
 [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/mohamedslama)
 
----
-
-### GitHub Stats
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedslama&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
