@@ -1,4 +1,4 @@
-## Salut, je suis Jihed Hallem 👋
+## Salut, je suis Mohamed Slama 👋
 
 🔭 Actuellement en stage chez **IBspace**  
 🌱 J'apprends **Flutter** et **React.js**  
@@ -6,8 +6,6 @@
 📫 Contactez-moi : [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
 
 ---
-
-### 📧 Me contacter
 
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:ms5878695@gmail.com)
 
