@@ -15,7 +15,7 @@
   <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="48" height="48" />
   </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohamed-slama-4677a5323)" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/mohamed-slama-4677a5323" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
 </p>
