@@ -24,7 +24,7 @@
 
 <p align="center">
  
- <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=dark&hide_title=false&title=Mohamed%20Slama's%20GitHub%20Stats&count_private=true&icon_color=ff0000&text_color=b0b0b0" alt="GitHub Stats" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=dark&hide_title=false&title=Mohamed%20Slama's%20GitHub%20Stats&count_private=true&icon_color=ff0000&text_color=b0b0b0&border_color=ff0000" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=dark&text_color=b0b0b0&bg_color=000000&border_color=ff0000" alt="Top Languages" width="48%" />
 </p>
