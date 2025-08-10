@@ -1,19 +1,19 @@
-## Hi there 👋
+## Salut, je suis Jihed Hallem 👋
 
-I'm currently working on **IBspace** (Internship)  
-I'm learning **Flutter** & **React.js**  
-Looking to collaborate on Internship opportunities  
-
----
-
-### 📫 How to reach me
-
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:ms5878695@gmail.com)  
-Email: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
+🔭 Actuellement en stage chez **IBspace**  
+🌱 J'apprends **Flutter** et **React.js**  
+👯 Ouvert aux opportunités de collaboration pour des stages  
+📫 Contactez-moi : [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
 
 ---
 
-### Connect with me
+### 📧 Me contacter
+
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:ms5878695@gmail.com)
+
+---
+
+### 🌐 Me suivre
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/tonprofil)  
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/tonprofil)  
@@ -21,7 +21,13 @@ Email: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)
 
 ---
 
-### 📊 GitHub Stats & Profile Views
+### 📊 Statistiques GitHub
 
-[![GitHub Follow](https://img.shields.io/github/followers/tonpseudo?label=Follow&style=social)](https://github.com/tonpseudo)  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tonpseudo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
+![Langues Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&langs_count=6&theme=radical)
+
+---
+
+### 🏆 Badges de Profil
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=tonpseudo&theme=radical&column=3)
