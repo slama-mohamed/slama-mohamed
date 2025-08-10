@@ -5,10 +5,6 @@
 👯 I’m open to internship collaborations  
 📫 How to reach me: [ms5878695@gmail.com](mailto:ms5878695@gmail.com) or anywhere @mohamedslama  
 
----
-
-### Connect with me:
-
 [![Gmail](https://img.icons8.com/color/24/000000/gmail.png)](mailto:ms5878695@gmail.com)  
 [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)  
 [![Twitter](https://img.icons8.com/color/24/000000/twitter.png)](https://twitter.com/your-twitter-handle)  
