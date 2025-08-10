@@ -7,14 +7,12 @@
 
 <p align="left">
   <a href="mailto:ms5878695@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
-    <img src="https://img.icons8.com/color/24/000000/gmail.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/24/000000/gmail.png" alt="Gmail" width="48" height="48" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
-
 </p>
-
 
 
 <p float="left">
