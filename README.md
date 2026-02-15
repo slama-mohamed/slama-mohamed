@@ -5,9 +5,9 @@
 </p>
 
 - 🔭 I’m currently interning at **IBspace**  
-- 🌱 I’m always learning **Flutter** & **React.js**  
+- 🌱 I’m always learning **Flutter**
 - 👯 I’m open to internship collaborations  
-- 📫 How to reach me: [ms5878695@gmail.com](mailto:ms5878695@gmail.com)  
+- 📫 How to reach me: [mohamed.slama.dev@gmail.com](mailto:mohamed.slama.dev@gmail.com)  
 
 <br>
 
