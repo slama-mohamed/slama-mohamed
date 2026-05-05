@@ -1,37 +1,46 @@
 <div align="center">
 
-# Hi there, I'm Mohamed Slama 👋
+# 👋 Hi, I'm Mohamed Slama
 
 <img src="https://komarev.com/ghpvc/?username=slama-mohamed&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+### 🚀 Flutter Developer | Mobile Enthusiast
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 ```dart
 class MohamedSlama {
-  String name     = "Mohamed Slama";
-  String role     = "Flutter Developer";
-  String location = "Tunisia 🇹🇳";
-  bool   openTo   = true; // internship collaborations
+  final String name = "Mohamed Slama";
+  final String role = "Flutter Developer";
+  final String location = "Tunisia 🇹🇳";
 
-  List<String> currentlyLearning = ["Flutter", "Dart", "Clean Architecture"];
-  String       contact           = "mohamed.slama.dev@gmail.com";
+  final bool openToWork = true; // internships & collaborations
+
+  final List<String> currentlyLearning = [
+    "Flutter",
+    "Dart",
+    "Clean Architecture"
+  ];
+
+  final String email = "mohamed.slama.dev@gmail.com";
 }
 ```
+
+💡 Passionné par le développement mobile avec Flutter, je construis des applications performantes, maintenables et centrées utilisateur.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+
+</div>
 
 ---
 
@@ -39,14 +48,14 @@ class MohamedSlama {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=slama-mohamed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slama-mohamed&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=slama-mohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slama-mohamed&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
@@ -54,17 +63,21 @@ class MohamedSlama {
 
 ## 📫 Contact Me
 
-<p align="left">
-  <a href="mailto:mohamed.slama.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-slama-4677a5323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:mohamed.slama.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-slama-4677a5323" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>🌱 Always learning. Always building.</i>
+
+### 🌱 Always learning • Always building • Always improving
+
 </div>
